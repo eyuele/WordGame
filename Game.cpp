@@ -8,7 +8,7 @@
 * With this the gaem will be more complete and user-friendly.
 * After evry modification make sure to test the code to ensure that all functionalities work as expected.
 * Aswell as to make sure that the file is pushed to the repository correctly.
-* Happy coding!
+* Happy coding!!
 */
 
 #include <iostream>
