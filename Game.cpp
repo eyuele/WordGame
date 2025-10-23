@@ -1,4 +1,5 @@
 /*
+* Add a return statement to the RegisterUser function to indicate successful completion of the registration process.
 * Nest the file handling logic have to be implemented to save and load user data (usernames, passwords, scores) from a file.
 * This will ensure that user data persists between program executions.
 * Additionally, implement error handling for file operations to manage scenarios where the file may not exist or is inaccessible.
